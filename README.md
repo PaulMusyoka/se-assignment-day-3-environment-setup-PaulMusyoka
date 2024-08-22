@@ -34,8 +34,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the APACHE 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to reach out at mupamwa@gmail.com.
